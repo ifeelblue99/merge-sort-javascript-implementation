@@ -38,4 +38,4 @@ function mergeArray(arr1, arr2) {
   return mergedArr
 }
 // run code
-console.log("sort.",mergeSort(data));
+console.log("sorted.",mergeSort(data));
